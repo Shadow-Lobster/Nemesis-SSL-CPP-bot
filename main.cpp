@@ -4,7 +4,6 @@
 #include <string.h>
 #include "ssl.h"
 #include "socket.h"
-#include "functions.h"
 #include "aliases.h"
 #include "modules.h"
 
