@@ -8,7 +8,7 @@ class alias
         const int portnum = 6697;
         std::string nick = "Nemesis";
         std::string user = "Nemesis 0 * cppbot";
-        std::string password = "NemesisIsHere";
+        std::string password = "";
         std::string channels = "#shadowcave,#cult,#bots"; //seperate channels by comma(,)
         std::string owner = "Man.With.Claws"; //owner of the bots, host name if set by services is preferable along with nick.
         std::string usermodes = "+B";
